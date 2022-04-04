@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "269165069182",
+    "firebase_url": "https://app-firebase-flutter-bcb34-default-rtdb.firebaseio.com",
+    "project_id": "app-firebase-flutter-bcb34",
+    "storage_bucket": "app-firebase-flutter-bcb34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269165069182:android:0fc7d170985579a761e92f",
+        "android_client_info": {
+          "package_name": "com.example.app_jogo_da_velha_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269165069182-2l4vppbmtveod5ppdftbfqjdnsu6d4l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_aFlrtyhe-b0snlu6xvZfgpcc6Nxz2-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269165069182-2l4vppbmtveod5ppdftbfqjdnsu6d4l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
