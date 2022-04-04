@@ -1,4 +1,4 @@
-# app_jogo_da_velha_firebase
+# App Jogo Da Velha Firebase
 
 A new Flutter project.
 
